@@ -1,0 +1,34 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1719920762960,1176,Homepage,200,OK,Thread Group 1-1,text,true,,37373,268,1,1,https://www.shivajicollegekannad.org/home,236,0,173
+1719920762960,240,Homepage-0,301,Moved Permanently,Thread Group 1-1,text,true,,1205,134,1,1,http://www.shivajicollegekannad.org/home,236,0,173
+1719920763203,933,Homepage-1,200,OK,Thread Group 1-1,text,true,,36168,134,1,1,https://www.shivajicollegekannad.org/home,884,0,821
+1719920764140,138,Coursepage,200,OK,Thread Group 1-1,text,true,,23798,300,1,1,https://www.shivajicollegekannad.org/departments/index/17,61,0,0
+1719920764140,61,Coursepage-0,301,Moved Permanently,Thread Group 1-1,text,true,,1221,150,1,1,http://www.shivajicollegekannad.org/departments/index/17,61,0,0
+1719920764201,77,Coursepage-1,200,OK,Thread Group 1-1,text,true,,22577,150,1,1,https://www.shivajicollegekannad.org/departments/index/17,75,0,0
+1719920764279,163,Contactpage,200,OK,Thread Group 1-1,text,true,,28076,284,1,1,https://www.shivajicollegekannad.org/home/contact,55,0,0
+1719920764279,55,Contactpage-0,301,Moved Permanently,Thread Group 1-1,text,true,,1213,142,1,1,http://www.shivajicollegekannad.org/home/contact,55,0,0
+1719920764334,108,Contactpage-1,200,OK,Thread Group 1-1,text,true,,26863,142,1,1,https://www.shivajicollegekannad.org/home/contact,58,0,0
+1719920764443,871,Reserchpage,200,OK,Thread Group 1-1,text,true,,571147,286,1,1,https://www.shivajicollegekannad.org/home/research,62,0,0
+1719920764443,62,Reserchpage-0,301,Moved Permanently,Thread Group 1-1,text,true,,1214,143,1,1,http://www.shivajicollegekannad.org/home/research,62,0,0
+1719920764505,809,Reserchpage-1,200,OK,Thread Group 1-1,text,true,,569933,143,1,1,https://www.shivajicollegekannad.org/home/research,64,0,0
+1719920765315,273,Gallerypage,200,OK,Thread Group 1-1,text,true,,125448,284,1,1,https://www.shivajicollegekannad.org/home/gallery,55,0,0
+1719920765315,55,Gallerypage-0,301,Moved Permanently,Thread Group 1-1,text,true,,1213,142,1,1,http://www.shivajicollegekannad.org/home/gallery,55,0,0
+1719920765370,218,Gallerypage-1,200,OK,Thread Group 1-1,text,true,,124235,142,1,1,https://www.shivajicollegekannad.org/home/gallery,65,0,0
+1719920765588,164,Aluminipage,200,OK,Thread Group 1-1,text,true,,46196,282,1,1,https://www.shivajicollegekannad.org/home/alumni,55,0,0
+1719920765588,55,Aluminipage-0,301,Moved Permanently,Thread Group 1-1,text,true,,1212,141,1,1,http://www.shivajicollegekannad.org/home/alumni,55,0,0
+1719920765643,109,Aluminipage-1,200,OK,Thread Group 1-1,text,true,,44984,141,1,1,https://www.shivajicollegekannad.org/home/alumni,60,0,0
+1719920765752,168,Studentcornerpage,200,OK,Thread Group 1-1,text,true,,54028,288,1,1,https://www.shivajicollegekannad.org/student_corner,63,0,0
+1719920765752,63,Studentcornerpage-0,301,Moved Permanently,Thread Group 1-1,text,true,,1215,144,1,1,http://www.shivajicollegekannad.org/student_corner,63,0,0
+1719920765815,105,Studentcornerpage-1,200,OK,Thread Group 1-1,text,true,,52813,144,1,1,https://www.shivajicollegekannad.org/student_corner,56,0,0
+1719920765920,187,Bestpracticespage,200,OK,Thread Group 1-1,text,true,,27300,298,1,1,https://www.shivajicollegekannad.org/home/best_practices,128,0,0
+1719920765920,128,Bestpracticespage-0,301,Moved Permanently,Thread Group 1-1,text,true,,1220,149,1,1,http://www.shivajicollegekannad.org/home/best_practices,128,0,0
+1719920766048,59,Bestpracticespage-1,200,OK,Thread Group 1-1,text,true,,26080,149,1,1,https://www.shivajicollegekannad.org/home/best_practices,56,0,0
+1719920766108,114,IQACpage,200,OK,Thread Group 1-1,text,true,,24903,268,1,1,https://www.shivajicollegekannad.org/iqac,54,0,0
+1719920766108,54,IQACpage-0,301,Moved Permanently,Thread Group 1-1,text,true,,1205,134,1,1,http://www.shivajicollegekannad.org/iqac,54,0,0
+1719920766163,59,IQACpage-1,200,OK,Thread Group 1-1,text,true,,23698,134,1,1,https://www.shivajicollegekannad.org/iqac,56,0,0
+1719920766222,137,NAACpage,200,OK,Thread Group 1-1,text,true,,22108,268,1,1,https://www.shivajicollegekannad.org/naac,66,0,0
+1719920766222,66,NAACpage-0,301,Moved Permanently,Thread Group 1-1,text,true,,1205,134,1,1,http://www.shivajicollegekannad.org/naac,66,0,0
+1719920766289,70,NAACpage-1,200,OK,Thread Group 1-1,text,true,,20903,134,1,1,https://www.shivajicollegekannad.org/naac,69,0,0
+1719920766359,117,NIRFpage,200,OK,Thread Group 1-1,text,true,,22031,278,1,1,https://www.shivajicollegekannad.org/iqac/nirf,55,0,0
+1719920766359,55,NIRFpage-0,301,Moved Permanently,Thread Group 1-1,text,true,,1210,139,1,1,http://www.shivajicollegekannad.org/iqac/nirf,55,0,0
+1719920766414,62,NIRFpage-1,200,OK,Thread Group 1-1,text,true,,20821,139,1,1,https://www.shivajicollegekannad.org/iqac/nirf,61,0,0

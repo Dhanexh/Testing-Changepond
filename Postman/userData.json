@@ -1,0 +1,54 @@
+[
+  {
+    "userId": "admin@gmail.com",
+    "userPass": "Admin@123"
+  },
+  {
+    "userId": "suresh@gmail.com",
+    "userPass": "Suresh@123"
+  },
+  {
+    "userId": "manikandan@gmail.com",
+    "userPass": "manikandan@123"
+  },
+  {
+    "userId": "Ravi123@gmail.com",
+    "userPass": "Ravi@123"
+  },
+  {
+    "userId": "Dhanesh@gmail.com",
+    "userPass": "dhanesh@123"
+  },
+  {
+    "userId": "manoj00714@gmail.com",
+    "userPass": "12345"
+  },
+  {
+    "userId": "dinesh@gmail.com",
+    "userPass": "dinesh@123"
+  },
+  {
+    "userId": "test1@gmail.com",
+    "userPass": "Test@123"
+  },
+  {
+    "userId": "wrtjhrtra@gmail.com",
+    "userPass": "sdndgnfhsmg"
+  },
+  {
+    "userId": "dhaneshinsta@gmail.com",
+    "userPass": "Dhaneshinsta@123"
+  },
+  {
+    "userId": "manoj@gmail.com",
+    "userPass": "Manoj@123"
+  },
+  {
+    "userId": "zoro@gmail.com",
+    "userPass": "Zoro@123"
+  },
+  {
+    "userId": "dojacat@gmail.com",
+    "userPass": "Dojacat@123"
+  }
+]
