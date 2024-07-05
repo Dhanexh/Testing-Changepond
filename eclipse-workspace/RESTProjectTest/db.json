@@ -1,0 +1,200 @@
+{
+  "foodMenu": [
+    {
+      "id": "1",
+      "fname": "Beans",
+      "fdesc": " High in Protein: Beans are an excellent plant-based source of protein,",
+      "price": "500"
+    },
+    {
+      "id": "2",
+      "fname": "Beetroot",
+      "fdesc": "It contains both soluble and insoluble fiber, which promotes digestive health, regulates bowel movements, and may lower cholesterol",
+      "price": "350"
+    },
+    {
+      "id": "3",
+      "fname": "CGarlic",
+      "fdesc": "Also be mixed in the toppings.",
+      "price": "350"
+    },
+    {
+      "id": "6",
+      "fname": "Cabbage",
+      "fdesc": "Csauce topped with cheese. Typically will also use mozzarella but other cheeses such as parmesan may also be mixed in the toppings.",
+      "price": "350"
+    },
+    {
+      "id": "7",
+      "fname": "Brocoli",
+      "fdesc": ". Typically  will also use mozzarella but other cheeses such as parmesan may also be mixed in the toppings.",
+      "price": "350"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "userId": "admin@gmail.com",
+      "userPass": "Admin@123"
+    },
+    {
+      "id": "2",
+      "userId": "suresh@gmail.com",
+      "userPass": "Suresh@123"
+    },
+    {
+      "id": "3",
+      "userId": "manikandan@gmail.com",
+      "userPass": "manikandan@123"
+    },
+    {
+      "id": "cc93",
+      "userId": "Ravi123@gmail.com",
+      "userPass": "Ravi@123"
+    },
+    {
+      "id": "733f",
+      "userId": "Dhanesh@gmail.com",
+      "userPass": "dhanesh@123"
+    },
+    {
+      "id": "e33c",
+      "userId": "manoj00714@gmail.com",
+      "userPass": "12345"
+    },
+    {
+      "id": "9c10",
+      "userId": "dinesh@gmail.com",
+      "userPass": "dinesh@123"
+    },
+    {
+      "id": "7a5b",
+      "userId": "test1@gmail.com",
+      "userPass": "Test@123"
+    },
+    {
+      "id": "17c1",
+      "userId": "wrtjhrtra@gmail.com",
+      "userPass": "sdndgnfhsmg",
+      "userName": "ghjsf",
+      "userContact": "1234567890",
+      "userAddress": "shkdgljl;fuk;ruiop"
+    },
+    {
+      "id": "bee2",
+      "userId": "dhaneshinsta@gmail.com",
+      "userPass": "Dhaneshinsta@123",
+      "userName": "Dhanesh",
+      "userContact": "1234567890",
+      "userAddress": "good good good"
+    },
+    {
+      "id": "b9fb",
+      "userId": "manoj@gmail.com",
+      "userPass": "Manoj@123",
+      "userName": "Manoj",
+      "userContact": "7777777777",
+      "userAddress": "Chennai"
+    },
+    {
+      "id": "7a23",
+      "userId": "zoro@gmail.com",
+      "userPass": "Zoro@123",
+      "userName": "Zoro",
+      "userContact": "1234567890",
+      "userAddress": "One piece"
+    },
+    {
+      "id": "b9ae",
+      "userId": "dojacat@gmail.com",
+      "userPass": "Dojacat@123",
+      "userName": "Doja Cat",
+      "userContact": "1234567890",
+      "userAddress": "dojadoja"
+    },
+    {
+      "id": "7d5e"
+    },
+    {
+      "id": "0917",
+      "userId": "{{iserId}}",
+      "userPass": "{{userPass}}"
+    },
+    {
+      "id": "fad9",
+      "userId": "{{userId}}",
+      "userPass": "{{userPass}}"
+    },
+    {
+      "id": "0511",
+      "userId": "Dhanesh@gmail.com",
+      "userPass": "dhanesh@1234"
+    },
+    {
+      "id": "aa73",
+      "userId": "{{iserId}}",
+      "userPass": "dhanesh@1234"
+    },
+    {
+      "id": "eecc",
+      "userId": "Dhanesh@gmail.com",
+      "userPass": "dhanesh@1234"
+    },
+    {
+      "id": "0ffe",
+      "userId": "Dhanesh@gmail.com",
+      "userPass": "dhanesh@1234"
+    }
+  ],
+  "Contacts": [
+    {
+      "name": "dhanesh",
+      "email": "adhanesh@gmail.com",
+      "mobile": "1234567890",
+      "feedback": "Nice online store in the world!!",
+      "id": "dd23"
+    },
+    {
+      "name": "ravi",
+      "email": "ravi@gmail.com",
+      "mobile": "0123456789",
+      "feedback": "Nice online store in the tamilnadu!!",
+      "id": "df47"
+    },
+    {
+      "id": "e1e5",
+      "name": "goldrajan",
+      "email": "goldy@gmail.com",
+      "mobile": "1234509876",
+      "message": "good good good very good!!"
+    },
+    {
+      "id": "a7b8",
+      "name": "Naruto",
+      "email": "naruto@gmail.com",
+      "mobile": "0912873465",
+      "message": "Shadow clone jutsu hoo!!"
+    },
+    {
+      "id": "d330",
+      "name": "Peter Parker",
+      "email": "peterparker@gmail.com",
+      "mobile": "1234567890",
+      "message": "hey guys i'm spidey!!"
+    },
+    {
+      "id": "6cd9",
+      "name": "light yagami",
+      "email": "deathnote@gmail.com",
+      "mobile": "1234567890",
+      "message": "Im inevitable!!"
+    },
+    {
+      "id": "7c07",
+      "name": "suresh",
+      "email": "suresh@gmail.com",
+      "mobile": "7777777777",
+      "message": "sfgsfg"
+    }
+  ]
+}
