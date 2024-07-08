@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.APITesting.TestGetandPostRequest">
+      <class name="com.APITesting.JSONSchemaValidator">
         <methods>
-          <include name="POSTRequest"/>
+          <include name="testGel"/>
         </methods>
-      </class> <!-- com.APITesting.TestGetandPostRequest -->
+      </class> <!-- com.APITesting.JSONSchemaValidator -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
